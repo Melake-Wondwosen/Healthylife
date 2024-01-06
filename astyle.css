@@ -368,9 +368,10 @@ textarea.input {
   .container {
     padding: 1.5rem;
   }
- /*  .newlogo{
-    margin-left: 100px;
-  } */
+  .newlogo{
+    margin-top: 1px;
+    margin-left: 40px;
+  }
   
   .contact-info:before {
     display: none;
